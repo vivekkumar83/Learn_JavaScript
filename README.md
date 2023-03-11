@@ -1,15 +1,10 @@
-# Learn_JavaScript
-In the series of Learn Javascript, It covers all the core concept of javascript
+# 👩‍🚀 Learning JavaScript
+Hi there, in the series of learning Javascript, we have covered all the core concept of javascript. We are starting from basic to advanced level
 
-# Table of Content 
-## Module1: Fundamentals of JavaScript
-* Introduction to JavaScript
-* Variables and Data Types
-* Operators and Expressions
-* Conditional Statements
-* Loops
-* Functions Basics
-* Strings
-* Arrays
-* Objects
-## Module2: Coerc
+# 👨‍💻 Module1:
+### 💻 Introduction 
+### 💻 Variables 
+### 💻 DataTypes 
+### 💻 Control Flow & Loop
+### 💻 Operators
+### 💻 Basics of Functions 
